@@ -2,7 +2,7 @@
 <p align="center">
 	<img src="https://github.com/Alien-alfa/_E-V-A_/blob/Eva/src/Eva.jpg?raw=true" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Eva</h1>
+<h1 align="center">Aisa</h1>
 
 # FOR THE SESSION !!
 
@@ -34,7 +34,7 @@ FORK THIS REPL..
 * Download & Instal ImageMagick [`Click here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/SudoAnirudh/E-V-A
+git clone https://github.com/Alien-alfa/_E-V-A_
 npm install
 npm update
 npm index
@@ -44,7 +44,7 @@ npm index
 
 ## FOR TERMUX USERS
 ```bash
-git clone https://github.com/SudoAnirudh/E-V-A
+git clone https://github.com/Alien-alfa/_E-V-A_
 cd _E-V-A_
 npm i
 npm update
