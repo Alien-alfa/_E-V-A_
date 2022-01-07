@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://telegra.ph/file/fd4230902e75d397d8667.jpg" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://github.com/Alien-alfa/_E-V-A_/blob/Eva/src/Eva.jpg?raw=true" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Eva</h1>
 
